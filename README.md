@@ -1,4 +1,5 @@
 # python-practice
+
 My first Python codes as a Computer Science student.
 
 ## About Me
@@ -13,5 +14,4 @@ I'm a CS student learning Python and GitHub.
 - Python
 
 ## Connect with me
-#I am Somtochukwu Chizoba, a CS student passionate about Python!python-practice
-my first python code as a cs student 
+I am Somtochukwu Chizoba, a CS student passionate about Python!

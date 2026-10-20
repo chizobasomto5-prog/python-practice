@@ -13,5 +13,5 @@ I'm a CS student learning Python and GitHub.
 - Python
 
 ## Connect with me
-GitHub: [your username here]# python-practice
+GitHub: [somtochukwu chizoba]# python-practice
 my first python code as a cs student 

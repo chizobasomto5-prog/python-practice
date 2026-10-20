@@ -13,5 +13,5 @@ I'm a CS student learning Python and GitHub.
 - Python
 
 ## Connect with me
-GitHub:Connect with me - CS Student learning Python!# python-practice
+#I am Somtochukwu Chizoba, a CS student passionate about Python!python-practice
 my first python code as a cs student 
